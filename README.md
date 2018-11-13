@@ -1,5 +1,8 @@
 # ProjectAngular
 
+# Angular CLI v6 + Bootstrap & FontAwesome & Material Angular
+In this tutorial you learn how to use Angular CLI v6 with Bootstrap and FontAwesome and material angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
