@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+/*
+*  For Bootstrap and font-awesome
+*/
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+/*
+*  For material angular.
+*/
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+/*
+*  the CSS class material to your data-table.
+*/
+@import '~@swimlane/ngx-datatable/release/index.css';
+@import '~@swimlane/ngx-datatable/release/themes/material.css';
+@import '~@swimlane/ngx-datatable/release/assets/icons.css';
